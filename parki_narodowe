@@ -1,0 +1,163 @@
+[
+{
+"id":"1"
+"nazwa_parku":"Babiogórski Park Narodowy"
+"symbol": "okrzyn jeleni"
+"utworzono": "1955"
+"powierzchnia (km)^2": "33,90"
+},
+{
+"id":"2"
+"nazwa_parku": "Białowieski Park Narodowy"
+"symbol": "żubr"
+"utworzono": "1932"
+"powierzchnia (km)^2": "105,17
+},
+{
+"id":"3"
+"nazwa_parku": "Biebrzański Park Narodowy"
+"symbol": "batalion"
+"utworzono": "1993"
+"powierzchnia (km)^2": "592,23"
+},
+{
+"id":"4"
+"nazwa_parku": "Bieszczadzki Park Narodowy"
+"symbol": "ryś"
+"utworzono": "1973"
+"powierzchnia (km)^2": "291,96"
+},
+{
+"id":"5"
+"nazwa_parku": "Park Narodowy ,Bory Tucholskie""
+"symbol": "głuszec"
+"utworzono":"1996"
+"powierzchnia (km)^2": "46,13"
+},
+{
+"id":"6"
+"nazwa_parku": "Drawieński Park Narodowy"
+"symbol": "wydra"
+"utworzono": "1990"
+"powierzchnia (km)^2": "113,42"
+},
+{
+"id":"7"
+"nazwa_parku": "Gorczański Park Narodowy"
+"symbol": "salamadra plamista"
+"utworzono": "1981"
+"powierzchnia (km)^2": "70,30"
+},
+{
+"id":"8"
+"nazwa_parku": "Park Narodowy Gór Stołowych"
+"symbol": "Szczeliniec Wielki"
+"utworzono": "1993"
+"powierzchnia (km)^2": "63,40"
+},
+{
+"id":"9"
+"nazwa_parku": "Kampinoski Park Narodowy"
+"symbol": "łoś"
+"utworzono": "1959"
+"powierzchnia (km)^2": "385,48"
+},
+{
+"id":"10"
+"nazwa_parku": "Karkonoski Park Narodowy"
+"symbol": "dzwonek karkonoski"
+"utworzono": "1959"
+"powierzchnia (km)^2": "55,80"
+},
+{
+"id":"11"
+"nazwa_parku": "Magurski Park Narodowy"
+"symbol": "orlik krzykliwy"
+"utworzono": "1995"
+"powierzchnia (km)^2": "194,39"
+},
+{
+"id":"12"
+"nazwa_parku": "Narwiański Park Narodowy"
+"symbol": "błotniak stawowy"
+"utworzono": "1996"
+"powierzchnia (km)^2": "68,10"
+},
+{
+"id":"13"
+"nazwa_parku": "Ojcowski Park Narodowy"
+"symbol":"nietoperz"
+"utworzono": "1956"
+"powierzchnia (km)^2": "21,46"
+},
+{
+"id":"14"
+"nazwa_parku": "Pieniński Park Narodowy"
+"symbol": "Trzy Korony"
+"utworzono": "1932"
+"powierzchnia (km)^2": "23,46"
+},
+{
+"id":"15"
+"nazwa_parku": "Poleski Park Narodowy"
+"symbol": "żuraw"
+"utworzono": "1990"
+"powierzchnia (km)^2": "97,62"
+},
+{
+"id":"16"
+"nazwa_parku": "Roztoczański Park Narodowy"
+"symbol": "konik polski"
+"utworzono": "1974"
+"powierzchnia (km)^2": "84,82"
+},
+{
+"id":"17"
+"nazwa_parku": "Słowiński Park Narodowy"
+"symbol": "mewa"
+"utworzono": "1967"
+"powierzchnia (km)^2": "215,72"
+},
+{
+"id":"18"
+"nazwa_parku": "Świętokrzyski Park Narodowy"
+"symbol": "jeleń"
+"utworzono": "1950"
+"powierzchnia (km)^2": "76,26"
+},
+{
+"id":"19"
+"nazwa_parku": "Tatrzański Park Narodowy"
+"symbol": "kozica tatrzańska"
+"utworzono": "1954"
+"powierzchnia (km)^2": "211,87"
+},
+{
+"id":"20"
+"nazwa_parku": "Park Narodowy ,Ujście Warty'"
+"symbol": "gęś zbożowa"
+"utworzono": "2001"
+"powierzchnia (km)^2": "80,74"
+},
+{
+"id":"21"
+"nazwa_parku": "Wielki Park Narodowy"
+"symbol": "puszczyk"
+"utworzono": "1957"
+"powierzchnia (km)^2": "75,83"
+},
+{
+"id":"22"
+"nazwa_parku": "Wigierski Park Narodowy"
+"symbol": "bóbr"
+"utworzono": "1989"
+"powierzchnia (km)^2": "150,79"
+},
+{
+"id":"23"
+"nazwa_parku": "Woliński Park Narodowy"
+"symbol": "bielik"
+"utworzono": "1960"
+"powierzchnia (km)^2": "109,37"
+}
+]
