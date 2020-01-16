@@ -14,14 +14,14 @@
 "powierzchnia": "105,17
 },
 {
-"id":"3"
+"id":"3",
 "nazwa_parku": "Biebrzański Park Narodowy",
 "symbol": "batalion",
 "utworzono": "1993",
 "powierzchnia": "592,23"
 },
 {
-"id":"4"
+"id":"4",
 "nazwa_parku": "Bieszczadzki Park Narodowy",
 "symbol": "ryś",
 "utworzono": "1973",
@@ -42,7 +42,7 @@
 "powierzchnia": "113,42"
 },
 {
-"id":"7"
+"id":"7",
 "nazwa_parku": "Gorczański Park Narodowy",
 "symbol": "salamadra plamista",
 "utworzono": "1981",
@@ -121,7 +121,7 @@
 {
 "id":"18",
 "nazwa_parku": "Świętokrzyski Park Narodowy",
-"symbol": "jeleń"
+"symbol": "jeleń",
 "utworzono": "1950",
 "powierzchnia": "76,26"
 },
